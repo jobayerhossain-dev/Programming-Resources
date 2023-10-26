@@ -13,17 +13,7 @@
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 
 
-### ## Copyright Restriction
-
-আমার এই গিটবুক, এর সাথে সম্পৃক্ত রিপোজিটরি এবং অন্যান্য উপকরণসমূহ আমার অনুমতি ব্যতীত ব্যবহার করা যাবে না। তবে শিক্ষার্থী এবং শিক্ষকগণ ক্রেডিট প্রদান সাপেক্ষে পডাশোনার কাজে এটিকে ব্যবহার করতে পারবেন। 
-
-The Gitbook, its associated repositories, and other materials can not be used without my permission. 
-But, students and teachers can use for study purposes, provided me proper credit.## Copyright Restriction
-
-আমার এই গিটবুক, এর সাথে সম্পৃক্ত রিপোজিটরি এবং অন্যান্য উপকরণসমূহ আমার অনুমতি ব্যতীত ব্যবহার করা যাবে না। তবে শিক্ষার্থী এবং শিক্ষকগণ ক্রেডিট প্রদান সাপেক্ষে পডাশোনার কাজে এটিকে ব্যবহার করতে পারবেন। 
-
-The Gitbook, its associated repositories, and other materials can not be used without my permission. 
-But, students and teachers can use for study purposes, provided me proper credit.C++
+### C++
 
 * [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
 
